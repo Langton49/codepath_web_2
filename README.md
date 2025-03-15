@@ -1,4 +1,4 @@
-# Web Development Project 2 - _Guess That Country_
+# Web Development Project 2 - _🗺 Guess That Country_
 
 Submitted by: **Munashe Mukweya**
 
